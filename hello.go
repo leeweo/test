@@ -9,4 +9,8 @@ func main() {
 }
 
 // this is comment
+/*
+	this is also comment
+*/
+
 
