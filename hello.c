@@ -5,3 +5,7 @@ int main() {
 	return 1;
 }
 
+void test() {
+}
+
+
